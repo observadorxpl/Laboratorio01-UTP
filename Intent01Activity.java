@@ -15,6 +15,8 @@ public class Intent01Activity extends AppCompatActivity {
     double n1;
     double n2;
     double n3 = 0;
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
